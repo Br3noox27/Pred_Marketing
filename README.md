@@ -40,7 +40,7 @@ Ao porcentos dos clicks depois de ver os anúncios, os homens acabam saindo da f
 
 O foco do projeto foi mais na realização de aprovação ao clicks e o caminho aonde chegar até aprovação, então,  fiz diversos gráficos demosntrando as idades com clicks, com aprovação e os totais de conversões.
 
-o que podemos tirar desses gráficos tirando essas informações pessoasi ? 
+o que podemos tirar desses gráficos tirando essas informações pessoas ? 
 
 podemos ver que quanto mais colocarmos dinheiro ao ads o propósito é alcançar mais pessoas e deixar seus anúncios com mais visibilidade onde você quer (região, lugar etc). Porém, esse dinheiro, não transforma em mais dinheiro para você, coisa que era para acontecer, e todo mundo acha.
 
