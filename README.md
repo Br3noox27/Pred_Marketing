@@ -57,5 +57,7 @@ KNN: obteve 62% de precisão.
 Taxa de rotatividade antes do modelo: 276.42% e apos os modelos obtivemos esses resultados:
 
 XGBoost reduziu para 150.66%.
+
+
 KNN reduziu para 125.76% o menor até agora.
 
