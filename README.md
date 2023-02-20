@@ -51,7 +51,11 @@ podemos tirar de conclusão, que temos que fazer um anúncio muito bem feito, ig
 # ciclo 3 
 
 para concluir o processo, observei as precisões: 
+
+
 cross_val_score : 58% de precisão
+
+
 KNN: obteve 62% de precisão.
 
 Taxa de rotatividade antes do modelo: 276.42% e apos os modelos obtivemos esses resultados:
