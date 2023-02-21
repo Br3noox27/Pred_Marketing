@@ -55,9 +55,9 @@ para concluir o processo, observei as precisões:
 Mean squared error: 0.8455934855599896
 R-squared score: 0.7739818882790482
 
-Um valor de Mean Squared Error (MSE) de 1.3503298154649843 indica que o modelo está cometendo um erro médio quadrático de aproximadamente 1.35. Isso significa que, em média, as previsões do modelo estão desviando cerca de 1.35 unidades do valor verdadeiro.
+Um valor de Mean Squared Error (MSE) de 0.8455934855599896 indica que o modelo está cometendo um erro médio quadrático de aproximadamente 84.55%. Isso significa que, em média, as previsões do modelo estão desviando cerca de 84% unidades do valor verdadeiro.
 
-Já o valor de R-squared score de 0.4671935152718164 indica que o modelo está explicando apenas cerca de 46.72% da variância nos dados. Ou seja, o modelo não está conseguindo capturar a variação total dos dados e pode estar sofrendo com underfitting.
+Já o valor de R-squared score de 0.7739818882790482 indica que o modelo está explicando apenas cerca de 77.39% da variância nos dados. Ou seja, o modelo não está conseguindo capturar a variação total dos dados e pode estar sofrendo com underfitting.
 
 A acurácia do modelo é: 0.3294460641399417
  
