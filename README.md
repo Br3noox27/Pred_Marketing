@@ -52,13 +52,21 @@ podemos tirar de conclusão, que temos que fazer um anúncio muito bem feito, ig
 
 para concluir o processo, observei as precisões: 
 
+Mean squared error: 0.8455934855599896
+R-squared score: 0.7739818882790482
 
-cross_val_score : 58% de precisão
-KNN: obteve 62% de precisão.
+Um valor de Mean Squared Error (MSE) de 1.3503298154649843 indica que o modelo está cometendo um erro médio quadrático de aproximadamente 1.35. Isso significa que, em média, as previsões do modelo estão desviando cerca de 1.35 unidades do valor verdadeiro.
 
-Taxa de rotatividade antes do modelo: 276.42% e apos os modelos obtivemos esses resultados:
+Já o valor de R-squared score de 0.4671935152718164 indica que o modelo está explicando apenas cerca de 46.72% da variância nos dados. Ou seja, o modelo não está conseguindo capturar a variação total dos dados e pode estar sofrendo com underfitting.
 
-XGBoost reduziu para 150.66%.
+A acurácia do modelo é: 0.3294460641399417
+ 
+Porcentagem de cliques que resultaram em vendas (dados reais): 99.42%
+Porcentagem de cliques que resultaram em vendas (dados previstos): 100.00%
 
-KNN reduziu para 125.76% o menor até agora.
+Sensibilidade: 0.33%
+Precisão: 0.11%
+f1: 0.16%
+
+Esses resultados sugerem que o modelo precisa ser aprimorado ou que outra abordagem de modelagem deve ser explorada para melhorar a capacidade de detectar conversões aprovadas.
 
