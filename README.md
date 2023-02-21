@@ -64,9 +64,13 @@ A acurácia do modelo é: 0.3294460641399417
 Porcentagem de cliques que resultaram em vendas (dados reais): 99.42%
 Porcentagem de cliques que resultaram em vendas (dados previstos): 100.00%
 
+
 Sensibilidade: 0.33%
+
 Precisão: 0.11%
+
 f1: 0.16%
+
 
 Esses resultados sugerem que o modelo precisa ser aprimorado ou que outra abordagem de modelagem deve ser explorada para melhorar a capacidade de detectar conversões aprovadas.
 
